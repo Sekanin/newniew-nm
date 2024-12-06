@@ -1,3 +1,3 @@
 # newniew-cv
 
-https://Sekanin.github.io/newniew-cv/cv
+https://Sekanin.github.io/newniew-cv/
